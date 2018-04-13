@@ -1,5 +1,5 @@
 
-原地址：
+本项目脚手架原地址：
 https://github.com/tumars/boilerplate-webpack-react-es6-cssModule
 
 
